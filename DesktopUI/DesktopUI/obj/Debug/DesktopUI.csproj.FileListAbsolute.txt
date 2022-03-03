@@ -1,0 +1,11 @@
+D:\C# Project\DesktopUI\DesktopUI\bin\Debug\DesktopUI.exe.config
+D:\C# Project\DesktopUI\DesktopUI\bin\Debug\DesktopUI.exe
+D:\C# Project\DesktopUI\DesktopUI\bin\Debug\DesktopUI.pdb
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.csproj.AssemblyReference.cache
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.Form1.resources
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.Properties.Resources.resources
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.csproj.GenerateResource.cache
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.csproj.CoreCompileInputs.cache
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.exe
+D:\C# Project\DesktopUI\DesktopUI\obj\Debug\DesktopUI.pdb
